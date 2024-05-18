@@ -77,7 +77,7 @@ Actualemente tengo un contrato de prácticas en Vaelsys como desallorador de sof
 ## :fax: Contacto 
 
 - Email: miguel.ibanez.gon@gmail.com
-- Linkedin: [linkedin.com/in/miguel](https://www.linkedin.com/in/miguel-ib%C3%A1%C3%B1ez-gonz%C3%A1lez-353276289/)
+- Linkedin: [linkedin.com/in/miguel-ibáñez](https://www.linkedin.com/in/miguel-ib%C3%A1%C3%B1ez/)
 
 
 
