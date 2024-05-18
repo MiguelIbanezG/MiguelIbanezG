@@ -1,4 +1,4 @@
-### Hola!! Soy Miguel
+# Hola!! Soy Miguel
 
 ## Sobre Mi
 
@@ -9,7 +9,7 @@ datos y diseño de sistemas.
 
 ## Experiencia
 
-Mi primer trabajo fue como Freelance en la creación de la pagina web de la empresa Filigree Design.
+Mi primer trabajo fue como Freelance en la creación de la pagina web de la empresa Filigree Design.  
 Actualemente tengo un contrato de prácticas en Vaelsys como desallorador de software.
 
 ## Habilidades
@@ -27,13 +27,13 @@ Actualemente tengo un contrato de prácticas en Vaelsys como desallorador de sof
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-#### De marcado
-
-<p>
-  <img alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+  #### Lenguajes de marcado
+  
+  <p>
+    <img alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  </p>
 
 ### Frameworks
 
@@ -59,7 +59,7 @@ Actualemente tengo un contrato de prácticas en Vaelsys como desallorador de sof
 <p>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitLab" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
 ### Herramientas y Tecnologías
@@ -73,6 +73,11 @@ Actualemente tengo un contrato de prácticas en Vaelsys como desallorador de sof
 </p>
 
 ## Contacto 
+
+- Email: miguel.ibanez.gon@gmail.com
+- Linkedin: [linkedin.com/in/miguel](https://www.linkedin.com/in/miguel-ib%C3%A1%C3%B1ez-gonz%C3%A1lez-353276289/)
+- Teléfono: +34 676134878
+
 
 
 
