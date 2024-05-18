@@ -1,18 +1,18 @@
-# Hola!! Soy Miguel
+# Hola!! Soy Miguel :wave:
 
-## Sobre Mi
+## :nerd_face: Sobre Mi 
 
 Estudiante de Ingeniería Informática en la Universidad Autónoma de Madrid. Comprometido
 con el aprendizaje continuo y el crecimiento profesional. Apasionado por
 la tecnología, con grandes habilidades en programación, análisis de
 datos y diseño de sistemas.
 
-## Experiencia
+## :man_office_worker: Experiencia
 
 Mi primer trabajo fue como Freelance en la creación de la pagina web de la empresa Filigree Design.  
 Actualemente tengo un contrato de prácticas en Vaelsys como desallorador de software.
 
-## Habilidades
+## :desktop_computer: Habilidades
 
 ### Lenguajes
 
@@ -74,11 +74,10 @@ Actualemente tengo un contrato de prácticas en Vaelsys como desallorador de sof
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
-## Contacto 
+## :fax: Contacto 
 
 - Email: miguel.ibanez.gon@gmail.com
 - Linkedin: [linkedin.com/in/miguel](https://www.linkedin.com/in/miguel-ib%C3%A1%C3%B1ez-gonz%C3%A1lez-353276289/)
-- Teléfono: +34 676134878
 
 
 
