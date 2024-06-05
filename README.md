@@ -7,7 +7,8 @@ Estudiante de Ingeniería Informática enfocado en el desarrollo de software y e
 ## :man_office_worker: Experiencia
 
 Mi primer trabajo fue como Freelance en la creación de la pagina web de la empresa Filigree Design.  
-Actualemente tengo un contrato de prácticas en Vaelsys como desallorador de software.
+Estuve 8 meses como Programador Junior con un contrato de prácticas en Vaelsys.
+Actualemente trabajo media jornada como Programador Junior especializado en el Desarrollo de Software en Vaelsys.
 
 ## :desktop_computer: Habilidades
 
