@@ -2,7 +2,7 @@
 
 ## :nerd_face: Sobre Mi 
 
-Estudiante de Ingeniería Informática enfocado en el desarrollo de software y en la busqueda de soluciones informáticas innovadoras. Comprometido con el aprendizaje continuo y el crecimiento profesional.  Apasionado por la tecnología, con grandes habilidades en programación, análisis de datos y diseño de sistemas. 
+Estudiante de Ingeniería Informática de 21 años nacido en Madrid, enfocado en el desarrollo de software y en la busqueda de soluciones informáticas innovadoras. Comprometido con el aprendizaje continuo y el crecimiento profesional.  Apasionado por la tecnología, con grandes habilidades en programación, análisis de datos y diseño de sistemas. 
 
 ## :man_office_worker: Experiencia
 
