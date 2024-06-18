@@ -10,7 +10,7 @@ Residencia Actual: Madrid.
 ## :man_office_worker: Experiencia
 
 Mi primer trabajo fue como becario en la creación de la pagina web de la empresa Filigree Design.  
-Estuve 8 meses de estudiante en prácticas como programador junior en Vaelsys.
+Estuve 8 meses de estudiante en prácticas como programador junior en Vaelsys.  
 Actualemente trabajo media jornada como Programador Junior especializado en el Desarrollo de Software en Vaelsys.
 
 ## :desktop_computer: Habilidades
