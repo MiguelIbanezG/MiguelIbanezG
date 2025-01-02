@@ -68,13 +68,14 @@ Actualemente trabajo media jornada como Programador Junior especializado en el D
 ### Herramientas y Tecnologías
 
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-purple?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/NGINX-green?style=for-the-badge&logo=nginx">
-
+  <img alt="Godot" src="https://img.shields.io/badge/Godot-blue?style=for-the-badge&logo=godotengine&logoColor=white">
 </p>
 
 ## :fax: Contacto 
