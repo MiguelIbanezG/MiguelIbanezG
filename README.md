@@ -2,7 +2,7 @@
 
 ## :nerd_face: Sobre Mi 
 
-Ingeniero Técnico Informático de 22 años. Enfocado en el desarrollo de software y en la busqueda de soluciones informáticas innovadoras. Comprometido con el aprendizaje continuo y el crecimiento profesional. Apasionado por la tecnología, con grandes habilidades en programación, análisis de datos y diseño de sistemas.   
+Ingeniero Técnico Informático de 22 años. Enfocado en el desarrollo de software y en la busqueda de soluciones informáticas innovadoras. Comprometido con el aprendizaje continuo y el crecimiento profesional. Apasionado por la tecnología, con grandes habilidades en programación, análisis de datos y arquitectura de software.   
   
 Nacimiento: Madrid.  
 Residencia Actual: Madrid.
